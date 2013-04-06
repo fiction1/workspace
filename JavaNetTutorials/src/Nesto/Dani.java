@@ -1,0 +1,5 @@
+package Nesto;
+
+public enum Dani {
+ PONEDJELJAK, UTORAK, SRIJEDA, CETVRTAK, PETAK, SUBOTA, NEDJELJA
+}

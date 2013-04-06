@@ -1,0 +1,5 @@
+1. The minimum length of the username must be 5 characters and the maximum may be 10.
+2. It should contain at least one letter from A-Z
+3. It should contain at least one digit from 0-9
+4. It should contain at least one character from amongst @#*=
+5. It should not contain any spaces
